@@ -1,5 +1,4 @@
-
-#### CALL FOR CODE Day Workshop
+### CALL FOR CODE Day Workshop
 
 ## Pre-requisite
 
@@ -14,7 +13,6 @@ IBM Cloud Account- [https://bit.ly/ibm-acct](https://bit.ly/ibm-acct)
 5. Try it out
 
 ## Architecture
-
 
 ![](https://github.com/Ishaan28malik/IBM_Earthquake--Call-for-code/blob/master/readme__images/architecture-draft.png)
 
@@ -189,6 +187,5 @@ Some questions you can try out are:
 
 * Can the position of the moon or the planets affect seismicity?
 * Can the ground open up during an earthquake?
-
 
 ![](https://github.com/Ishaan28malik/IBM_Earthquake--Call-for-code/blob/master/readme__images/20.png)
